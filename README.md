@@ -38,17 +38,13 @@ to distributed systems.
 ---
 
 ## 🚀 Highlight Projects
-- 🔌 [**Yogurt maker IoT Device**]() –  
-  full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
+- 🔌 [**Yogurt maker IoT Device**]() – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
 
-- ⚙️ [**CNC Milling Machine**]() –  
-  functional CNC built with 3D-printed parts and custom electronics  
+- ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics  
 
-- 🌐 [**Marauder Map**]() –  
-  distributed microservice application for university scheduling (Python + APIs + DBs)  
+- 🌐 [**Marauder Map**]() – distributed microservice application for university scheduling (Python + APIs + DBs)  
 
-- 📊 [**Chartering Data Platform**]() –  
-  architecture for data collection & analysis with Telegram bot interface *(work project, description only)*
+- 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project, description only)*
 
 ---
 
