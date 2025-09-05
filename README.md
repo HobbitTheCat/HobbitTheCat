@@ -49,7 +49,7 @@ to distributed systems.
 ---
 
 ## 📚 University Projects
-- 📂 [**Database project in Java**]() -
+- 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) -
   Project on creating an object-oriented database from scratch
 - 🎮 [**Maze Game in Java**]() -
   first-year university project  
