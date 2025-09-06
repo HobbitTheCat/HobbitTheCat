@@ -42,7 +42,7 @@ to distributed systems.
 
 - ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics  
 
-- 🌐 [**Marauder Map**]() – distributed microservice application for university scheduling (Python + APIs + DBs)  
+- 🌐 [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)  
 
 - 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project, description only)*
 
