@@ -51,7 +51,7 @@ to distributed systems.
 ## 📚 University Projects
 - 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) -
   Project on creating an object-oriented database from scratch
-- 🎮 [**Maze Game in Java**]() -
+- 🎮 [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner/tree/main?tab=readme-ov-file) -
   first-year university project  
 
 ---
