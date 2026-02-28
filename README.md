@@ -38,26 +38,24 @@ to distributed systems.
 ---
 
 ## 🚀 Highlight Projects
+- ❄️ [**Fractal Visualization & Implicit Modeling**]() – exploring SDF (Signed Distance Fields) and RayMarching for real-time rendering of complex mathematical structures.
 - 🔌 [**Yogurt maker IoT Device**]() – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
-
-- ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics  
-
+- ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics
 - 🌐 [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)  
-
-- 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project, description only)*
+- 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project)*
 
 ---
 
 ## 📚 University Projects
-- 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) -
-  Project on creating an object-oriented database from scratch
-- 🎮 [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner/tree/main?tab=readme-ov-file) -
-  first-year university project  
+- 🕹️ [**C Game Engine**]() – a custom game engine built from scratch in C, focusing on memory management and core systems.
+- 🍰 [**Cake Factory**]() – collaborative project modeling an automated production line/system.
+- 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) – creating an object-oriented database from scratch.
+- 🎮 [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner) – first-year university project.
 
 ---
 
 ## 💡 Future Ideas
-- Modular IoT-based security system  
+- Thread weaving simulation system
 - Rapid Liquid Printing prototype  
 - ICE protocol implementation  
 
@@ -69,4 +67,4 @@ to distributed systems.
 
 ---
 
-✨ *Pinned repositories below highlight my best work – check them out!* 
+✨ *Pinned repositories below highlight my best work – check them out!*
