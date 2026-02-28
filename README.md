@@ -9,46 +9,52 @@ to distributed systems.
 
 ## Some Tools I Have Used and Learned
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  
+[//]: # (Language)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>           [//]: # (Java)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>  [//]: # (C++)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>                    [//]: # (C)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="45" height="45"/>           [//]: # (Rust) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="scala" width="45" height="45"/>        [//]: # (Scala)                                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>     [//]: # (Python)
+
+[//]: # (Data Base)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgres" width="45" height="45"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="docker" width="45" height="45"/>
+[//]: # (Libraries)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>  [//]: # (FastAPI)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>        [//]: # (Numpy)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/>     [//]: # (OpenCV)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/>  [//]: # (SQLAlchemy)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>              [//]: # (Git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="docker" width="45" height="45"/>    [//]: # (Docker)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>  [//]: # (Raspberry)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>                    [//]: # (Linux)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrainIDE" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"  alt="trello" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="neovim" width="45" height="45"/>                  [//]: # (Nvim)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrainIDE" width="45" height="45"/>       [//]: # (Ide JetBrains)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"  alt="trello" width="45" height="45"/>                 [//]: # (Trello)
 
-<img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png"  alt="onshape" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="fusion360" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/orcaslicer-logo.png" alt="orca" width="45" height="45"/>
-<img src="https://www.klipper3d.org/fr/img/klipper-logo.png" alt="clipper" width="45" height="45"/>
+<img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png"  alt="onshape" width="45" height="45"/>                  [//]: # (Oneshape)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" alt="fusion360" width="45" height="45"/>               [//]: # (Fusion360)
+<img src="https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/orcaslicer-logo.png" alt="orca" width="45" height="45"/> [//]: # (Orca)
+<img src="https://www.klipper3d.org/fr/img/klipper-logo.png" alt="clipper" width="45" height="45"/>                                                     [//]: # (Clipper)
 </p>
 
 ---
 
 ## 🚀 Highlight Projects
-- ❄️ [**Fractal Visualization & Implicit Modeling**]() – exploring SDF (Signed Distance Fields) and RayMarching for real-time rendering of complex mathematical structures.
-- 🔌 [**Yogurt maker IoT Device**]() – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
+- 🔌 [**Yogurt maker IoT Device**](https://github.com/HobbitTheCat/Smart-Fermenter-IoT) – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
+- ❄️ [**Fractal Visualization & Implicit Modeling**](https://github.com/HobbitTheCat/Fractals) – exploring SDF (Signed Distance Fields) and RayMarching for real-time rendering of complex mathematical structures.
+- 🌐 [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)
 - ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics
-- 🌐 [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)  
 - 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project)*
 
 ---
 
 ## 📚 University Projects
-- 🕹️ [**C Game Engine**]() – a custom game engine built from scratch in C, focusing on memory management and core systems.
-- 🍰 [**Cake Factory**]() – collaborative project modeling an automated production line/system.
+- 🕹️ [**C Game Engine**](https://github.com/HobbitTheCat/pega_s6) – a custom game engine built from scratch in C, focusing on memory management and core systems.
+- 🍰 [**Cake Factory**](https://github.com/HobbitTheCat/Cake_factory) – collaborative project modeling an automated production line/system.
 - 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) – creating an object-oriented database from scratch.
 - 🎮 [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner) – first-year university project.
 
@@ -56,6 +62,7 @@ to distributed systems.
 
 ## 💡 Future Ideas
 - Thread weaving simulation system
+- Working with implicit modeling and field-driven design
 - Rapid Liquid Printing prototype  
 - ICE protocol implementation  
 
