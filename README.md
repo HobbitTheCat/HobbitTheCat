@@ -2,8 +2,18 @@
 
 - Computer Science student in France, passionate about **Robotics** and **IoT**.  
 - I enjoy building projects that combine hardware and software – from IoT devices on ESP32 and 3D printing  
-to distributed systems.  
-- Currently working on **system architecture and data platforms** in a chartering company.  
+to distributed systems.
+
+![Profile Views](https://komarev.com/ghpvc/?username=HobbitTheCat&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/HobbitTheCat?style=flat&color=blueviolet)
+![Status](https://img.shields.io/badge/status-open%20to%20opportunities-brightgreen)
+![Location](https://img.shields.io/badge/based%20in-France-blue)
+
+---
+## Education
+
+- **Sorbonne Université** – Master's, SAR (Systèmes et Applications Répartis)
+- **Université Bourgogne Europe** – Computer Science
 
 ---
 
@@ -59,10 +69,10 @@ to distributed systems.
 ---
 
 ## Future Ideas
-- Thread weaving simulation system
-- Working with implicit modeling and field-driven design
-- Rapid Liquid Printing prototype  
-- ICE protocol implementation  
+- Algorithm for generating supports for IFS fractals
+- Cloth/fabric simulation
+- Rapid Liquid Printing prototype
+- Exploring swarm algorithms
 
 ---
 
