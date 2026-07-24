@@ -23,6 +23,7 @@ to distributed systems.
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="nixos" width="45" height="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></td>
@@ -41,19 +42,19 @@ to distributed systems.
 ---
 
 ## Highlight Projects
-- 🔌 [**Yogurt maker IoT Device**](https://github.com/HobbitTheCat/Smart-Fermenter-IoT) – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
-- ❄️ [**Fractal Visualization & Implicit Modeling**](https://github.com/HobbitTheCat/Fractals) – exploring SDF (Signed Distance Fields) and RayMarching for real-time rendering of complex mathematical structures.
-- 🌐 [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)
-- ⚙️ [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics
-- 📊 [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project)*
+- [**FracSlicer**](https://github.com/HobbitTheCat/FracSlicer) – A slicer that enables direct slicing of IFS fractals for photopolymer printing.
+- [**Yogurt maker IoT Device**](https://github.com/HobbitTheCat/Smart-Fermenter-IoT) – full-cycle IoT project: 3D modeling → circuit design → ESP32 firmware  
+- [**Marauder Map**](https://github.com/HobbitTheCat/ProjectM) – distributed microservice application for university scheduling (Python + APIs + DBs)
+- [**CNC Milling Machine**]() – functional CNC built with 3D-printed parts and custom electronics
+- [**Chartering Data Platform**]() – architecture for data collection & analysis with Telegram bot interface *(work project)*
 
 ---
 
 ## University Projects
-- 🕹️ [**C Game Engine**](https://github.com/HobbitTheCat/pega_s6) – a custom game engine built from scratch in C, focusing on memory management and core systems.
-- 🍰 [**Cake Factory**](https://github.com/HobbitTheCat/Cake_factory) – collaborative project modeling an automated production line/system.
-- 📂 [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) – creating an object-oriented database from scratch.
-- 🎮 [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner) – first-year university project.
+- [**C Game Engine**](https://github.com/HobbitTheCat/pega_s6) – a custom game engine built from scratch in C, focusing on memory management and core systems.
+- [**Cake Factory**](https://github.com/HobbitTheCat/Cake_factory) – collaborative project modeling an automated production line/system.
+- [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) – creating an object-oriented database from scratch.
+- [**Maze Game in Java**](https://github.com/HobbitTheCat/MazeRunner) – first-year university project.
 
 ---
 
