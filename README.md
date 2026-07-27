@@ -61,6 +61,7 @@ to distributed systems.
 ---
 
 ## University Projects
+- [**Multilevel Graph Partitioning & Visualization**](https://github.com/HobbitTheCat/graph) — high-performance C++/CUDA engine for graph bisection and real-time physics rendering.
 - [**C Game Engine**](https://github.com/HobbitTheCat/pega_s6) – a custom game engine built from scratch in C, focusing on memory management and core systems.
 - [**Cake Factory**](https://github.com/HobbitTheCat/Cake_factory) – collaborative project modeling an automated production line/system.
 - [**Database project in Java**](https://github.com/HobbitTheCat/dataBase) – creating an object-oriented database from scratch.
