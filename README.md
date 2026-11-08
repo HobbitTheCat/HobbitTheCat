@@ -78,7 +78,7 @@ to distributed systems.
 ---
 
 ## Contacts
-- 📧 Email: egor_semenov-tyan-shanskiy@etu.u-bourgogne.fr
+- 📧 Email: Egor.Semenov-Tyan-Shanskiy@etu.sorbonne-universite.fr
 - 💬 Telegram: [@HobbitTheCat](https://t.me/hobbitthecat)  
 
 ---
